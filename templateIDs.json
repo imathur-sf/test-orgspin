@@ -135,6 +135,10 @@
             "TemplateName" : "SFI_IOM_TH",
             "TemplateID"  : "0TTJ4000000k9fk"
         }
+        {
+            "TemplateName" : "SFI_IQE",
+            "TemplateID"  : "0TT3s000006RG7h"
+        }
     ]
 }
 
