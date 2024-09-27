@@ -89,6 +89,10 @@
             "TemplateName" : "SFI_IQE",
             "TemplateID"  : "0TT3s000006RG7h"
         },
+         {
+            "TemplateName" : "SFI_IPQ_ILT",
+            "TemplateID"  : "0TT5f00000Bg26g"
+        },
         {
             "TemplateName" : "SFI_ESM",
             "TemplateID"  : "0TT5f00000BHFsn"
